@@ -1,4 +1,4 @@
-# 🔗 Real-Time Data Streaming & Processing Pipeline — Powered by Airflow, Kafka, Spark, Cassandra, and Docker
+# 🔗 Real-Time Data Streaming & Processing Pipeline. Powered by Airflow, Kafka, Spark, Cassandra, and Docker
 
 ✨ **Tools & Technologies Used:**
 
